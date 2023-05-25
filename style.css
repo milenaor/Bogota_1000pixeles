@@ -250,11 +250,12 @@ h6 {
 }
 
 .imagenP2 {
-  width: 60px;
-  height: 60px;
+  width: 220px;
+  height: auto;
   margin-bottom: 3px;
   display: inline-block;
 }
 
 .columna2 {
+  padding: 8px;
 }
